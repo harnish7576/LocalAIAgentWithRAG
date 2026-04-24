@@ -85,21 +85,9 @@ python main.py
 The first run will embed all reviews and persist them to `./chrome_langchain_db`. Subsequent runs skip this step and load directly from the vector store.
 
 ---
+## Demo
 
-## Usage
-
-```
--------------------------------
-Ask your question (q to quit): Do they have any vegan options?
-
-Yes, the restaurant offers vegan options. One reviewer highlights
-their cashew cheese which melts properly, and praises the fresh,
-seasonal vegetable toppings. Even non-vegan customers enjoy it.
--------------------------------
-Ask your question (q to quit): q
-```
-
-Type `q` to quit.
+![Agent Output](assets/PizzaDemo.png)
 
 ---
 
